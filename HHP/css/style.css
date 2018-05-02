@@ -1,0 +1,27 @@
+/*-------------------------------------HEADING AND NAV -----*/
+
+.logo {
+    background: url("../images/logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+}
+
+/*-------------------------------------COLOURS -----*/
+
+
+
+/*-------------------------------------GENERAL -----*/
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
