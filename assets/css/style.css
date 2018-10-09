@@ -73,6 +73,14 @@ h4 {
     margin-bottom: 40px;
 }
 
+.error-heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    color: #fafafa;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
 /*----------------------------------------------- HEADING AND NAV --*/
 
 header {
@@ -347,6 +355,9 @@ footer .cv-pdf i:hover {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
+}
+
+button[type="submit"]:hover, button[type="submit"]:active {
     background-color: #e84610;
     color: #fafafa;
 }
